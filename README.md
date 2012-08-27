@@ -29,9 +29,9 @@ You should now be presented with a shell in that already has the virtual environ
     New release 'precise' available.
     Run 'do-release-upgrade' to upgrade to it.
 
-   Welcome to your Vagrant-built virtual machine.
-   Last login: Mon Aug 27 17:32:15 2012 from 10.0.2.2
-   (venv)vagrant@lucid32:~$
+    Welcome to your Vagrant-built virtual machine.
+    Last login: Mon Aug 27 17:32:15 2012 from 10.0.2.2
+    (venv)vagrant@lucid32:~$
 
 ## Next Steps
 
