@@ -77,7 +77,7 @@ Vagrant::Config.run do |config|
   config.vm.provision :chef_solo do |chef|
     chef.log_level = :debug
     chef.cookbooks_path = ["vagrant/cookbooks", "vagrant/site-cookbooks"]
-    chef.add_recipe python
+    chef.add_recipe "python"
     chef.add_recipe "setupvenv"
   end
 
